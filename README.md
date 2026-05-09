@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1233988778.svg)](https://doi.org/10.5281/zenodo.20099743)
 # Russia-sanctions-trade-reallocation - replication code
 Paper: Beyond Trade Decline: Sanctions Intensity and Russia’s Trade Reallocation
 
