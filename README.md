@@ -7,7 +7,7 @@ CONTENTS
 (Sanctions data are not included — see “Sanctions data (GSDB)” below.)
 
 RESEARCH DESIGN (HIGH-LEVEL)
-1.  of analysis: Russia–partner–year panel (dyad-year).
+1. Unit of analysis: Russia–partner–year panel (dyad-year).
 2. Trade outcomes: exports and imports of goods by partner (IMF trade data).
 3. Sanctions treatment: partner-year sanctions intensity index (constructed from GSDB Release 4; capped to 0–6; coalition episodes expanded to countries).
 4. Methods:
