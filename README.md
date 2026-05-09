@@ -1,4 +1,6 @@
-# Russia-sanctions-trade-reallocation
+# Russia-sanctions-trade-reallocation - replication code
+Paper: Beyond Trade Decline: Sanctions Intensity and Russia’s Trade Reallocation
+
 This repository contains the replication code (single Jupyter Notebook) for the empirical analysis of Russia’s trade reallocation and its relationship with sanctions intensity at the partner–year level.
 
 CONTENTS
